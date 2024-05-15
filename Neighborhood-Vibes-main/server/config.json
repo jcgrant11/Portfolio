@@ -1,0 +1,9 @@
+{
+  "rds_host": "database-1.c51plpqauyyl.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "admin",
+  "rds_password": "samarkand2023!",
+  "rds_db": "NEIGHBORHOOD_VIBE",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
