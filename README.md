@@ -1,6 +1,8 @@
 # Neighborhood Vibes
 ## _Find a home in your dream neighborhood_
 
+## Project Authors: Jeff Grant, Daniel Kim, Bo Kim, Ewelina Smierzynska
+
 #### 1. Description
 Finding a home in a new neighborhood can be difficult and overwhelming. Although there are
 several applications that already assist in researching homes, not many provide comprehensive
